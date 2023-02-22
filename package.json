@@ -1,5 +1,5 @@
 {
-  "name": "@link/shopify-app-session-storage-mysql",
+  "name": "@link-hooks/shopify-app-session-storage-mysql",
   "version": "1.1.1",
   "description": "Shopify App Session Storage for MySQL",
   "keywords": [
