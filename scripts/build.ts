@@ -9,6 +9,7 @@ const baseConfig: BuildOptions = {
   sourcemap: true,
   external: [],
   bundle: true,
+  packages: "external",
 };
 
 async function main() {
